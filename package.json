@@ -1,0 +1,15 @@
+{
+  "name": "zenn_notes",
+  "version": "1.0.0",
+  "description": "Zenn（https://zenn.dev/ojineko）の記事を管理するリポジトリです。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zenn-cli": "^0.5.7"
+  }
+}
